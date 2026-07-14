@@ -82,8 +82,3 @@ Since the dataset does not contain channel-level marketing costs, the recommenda
 
 Tushar Mendhule
 
-## Internship
-
-**Organization:** SkillCraft Technology  
-**Domain:** Data Analyst Internship  
-**Task:** Task 04 - Business Insights Report (EDA)
